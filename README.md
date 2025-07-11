@@ -1,3 +1,7 @@
+Name: Priti Sil
+
+This is a simple web application built with React that displays random quotes. Users can click a button to generate a new quote, filter quotes by tags and copy a quote to the clipboard. The app saves the last seen quote in localStorage.
+
 ## Installation
 
 ### Prerequisites
